@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\theza\\Documents\\Programacio\\t1-introducci-a-la-programaci-miquel-manzano\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\theza\\Documents\\Programacio\\t1-introducci-a-la-programaci-miquel-manzano\\apuntesMarkdown\\1.introduccio-a-la-programacio\\1.2.llenguatges-de-programacio.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:apuntesMarkdown\\1.introduccio-a-la-programacio\\1.2.llenguatges-de-programacio.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\theza\\Documents\\Programacio\\t1-introducci-a-la-programaci-miquel-manzano\\T1. AP1. IDEs.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:T1. AP1. IDEs.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\theza\\Documents\\Programacio\\t1-introducci-a-la-programaci-miquel-manzano\\apuntesMarkdown\\1.introduccio-a-la-programacio\\1.1.or\u00EDgens-de-la-programacio.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:apuntesMarkdown\\1.introduccio-a-la-programacio\\1.1.or\u00EDgens-de-la-programacio.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\theza\\Documents\\Programacio\\t1-introducci-a-la-programaci-miquel-manzano\\apuntesMarkdown\\1.introduccio-a-la-programacio\\introduccio.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:apuntesMarkdown\\1.introduccio-a-la-programacio\\introduccio.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "T1. AP1. IDEs.md",
+              "DocumentMoniker": "C:\\Users\\theza\\Documents\\Programacio\\t1-introducci-a-la-programaci-miquel-manzano\\T1. AP1. IDEs.md",
+              "RelativeDocumentMoniker": "T1. AP1. IDEs.md",
+              "ToolTip": "C:\\Users\\theza\\Documents\\Programacio\\t1-introducci-a-la-programaci-miquel-manzano\\T1. AP1. IDEs.md",
+              "RelativeToolTip": "T1. AP1. IDEs.md",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-10-08T15:14:12.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1.2.llenguatges-de-programacio.md",
+              "DocumentMoniker": "C:\\Users\\theza\\Documents\\Programacio\\t1-introducci-a-la-programaci-miquel-manzano\\apuntesMarkdown\\1.introduccio-a-la-programacio\\1.2.llenguatges-de-programacio.md",
+              "RelativeDocumentMoniker": "apuntesMarkdown\\1.introduccio-a-la-programacio\\1.2.llenguatges-de-programacio.md",
+              "ToolTip": "C:\\Users\\theza\\Documents\\Programacio\\t1-introducci-a-la-programaci-miquel-manzano\\apuntesMarkdown\\1.introduccio-a-la-programacio\\1.2.llenguatges-de-programacio.md",
+              "RelativeToolTip": "apuntesMarkdown\\1.introduccio-a-la-programacio\\1.2.llenguatges-de-programacio.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-10-08T15:13:24.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "1.1.or\u00EDgens-de-la-programacio.md",
+              "DocumentMoniker": "C:\\Users\\theza\\Documents\\Programacio\\t1-introducci-a-la-programaci-miquel-manzano\\apuntesMarkdown\\1.introduccio-a-la-programacio\\1.1.or\u00EDgens-de-la-programacio.md",
+              "RelativeDocumentMoniker": "apuntesMarkdown\\1.introduccio-a-la-programacio\\1.1.or\u00EDgens-de-la-programacio.md",
+              "ToolTip": "C:\\Users\\theza\\Documents\\Programacio\\t1-introducci-a-la-programaci-miquel-manzano\\apuntesMarkdown\\1.introduccio-a-la-programacio\\1.1.or\u00EDgens-de-la-programacio.md",
+              "RelativeToolTip": "apuntesMarkdown\\1.introduccio-a-la-programacio\\1.1.or\u00EDgens-de-la-programacio.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-10-08T15:05:48.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "introduccio.md",
+              "DocumentMoniker": "C:\\Users\\theza\\Documents\\Programacio\\t1-introducci-a-la-programaci-miquel-manzano\\apuntesMarkdown\\1.introduccio-a-la-programacio\\introduccio.md",
+              "RelativeDocumentMoniker": "apuntesMarkdown\\1.introduccio-a-la-programacio\\introduccio.md",
+              "ToolTip": "C:\\Users\\theza\\Documents\\Programacio\\t1-introducci-a-la-programaci-miquel-manzano\\apuntesMarkdown\\1.introduccio-a-la-programacio\\introduccio.md",
+              "RelativeToolTip": "apuntesMarkdown\\1.introduccio-a-la-programacio\\introduccio.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-10-08T15:01:13.026Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
