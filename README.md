@@ -1,6 +1,6 @@
 # Benvilgut al ReadMe del meu Super Mega Guay Repositori
 
-Aquí, de moment, trobaràs dos exercissis, l'exercici dels apunts de MarkDown de la tasca **T1. A1. Introducció a la programació** i les activitats de la tasca **T1. AP1. IDEs**, que estan a mig fer.
+Aquí, de moment, trobaràs els apunts de MarkDown de la tasca **T1. A1. Introducció a la programació**.
 
 En el meu SMGR o Super Mega Guay Repositori, només volem bona vibra i moltes bones noteees!!!
 
